@@ -78,7 +78,9 @@ Utilizando:
 - Regressão Logística
 - Balanceamento de classes (`class_weight="balanced"`)
 - Avaliação com accuracy, precision, recall e F1-score
+  
 Foi utilizada a configuração `class_weight="balanced"` na Regressão Logística para compensar o desbalanceamento entre as classes (negativo, neutro e positivo), ajustando automaticamente o peso das classes minoritárias durante o treinamento.
+
 ---
 
 ## 📊 Resultados
