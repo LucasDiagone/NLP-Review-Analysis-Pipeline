@@ -34,7 +34,7 @@ Reviews reais de e-commerce (Mercado Livre), contendo:
 - Texto da avaliação
 - Nota atribuída (rating)
 
-O rating foi utilizado como proxy para classificação supervisionada de sentimento.]
+O rating foi utilizado como proxy para classificação supervisionada de sentimento.
 
 O conjunto de dados foi obtido a partir do repositório público:
 
