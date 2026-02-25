@@ -112,6 +112,11 @@ Foi utilizada a configuração `class_weight="balanced"` na Regressão Logístic
 
 ## 📌 Conclusão
 
-O projeto demonstra a aplicação integrada de técnicas clássicas e modernas de NLP em um cenário real, explorando desde representação vetorial até modelos baseados em Transformers.
+Este projeto consolida meus estudos em NLP por meio da aplicação prática em dados reais de reviews de e-commerce, integrando técnicas clássicas (BoW, TF-IDF, LDA e Regressão Logística) e modelos baseados em Transformers.
 
-Ele evidencia a construção de um pipeline completo para análise textual, combinando abordagem estatística, aprendizado supervisionado e modelos pré-treinados.
+O trabalho demonstra a construção de um pipeline completo de análise textual, com foco em interpretação, avaliação crítica e aplicação real.
+
+📎 Mais conteúdos e projetos:
+
+- Medium: https://medium.com/@lucas.diagone  
+- GitHub: https://github.com/LucasDiagone
