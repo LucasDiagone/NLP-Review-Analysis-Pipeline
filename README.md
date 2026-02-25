@@ -37,10 +37,13 @@ Reviews reais de e-commerce (Mercado Livre), contendo:
 O rating foi utilizado como proxy para classificação supervisionada de sentimento.]
 
 O conjunto de dados foi obtido a partir do repositório público:
+
 https://github.com/octaprice/ecommerce-product-dataset
 
 Utilizando:
+
 !git clone https://github.com/octaprice/ecommerce-product-dataset.git
+
 !ls ecommerce-product-dataset/data/mercadolivre_com_br
 
 ---
